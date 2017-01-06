@@ -1,0 +1,34 @@
+Emacs commands cheat sheet
+
+MOVEMENT
+
+C-f : forward a char
+C-b : backward a char
+M-f : forward a word
+M-b : backwards a word
+C-a : beginning of line
+C-e : end of line
+C-v : page down
+M-v : page up
+esc-< : beginning of doc
+esc-> : end of doc
+
+BUFFERS
+
+C-x <left-arrow> / <right-arrow> : switch buffers
+
+CODING
+
+M-; : adds an inline comment; if a section is selected, then block comment/uncomment
+
+TERMINAL MODE
+
+M-x term
+in terminal mode:
+C-c C-j : switch to line mode, to use emacs keybindings (edit text, switch buffers, etc.)
+C-c C-k : switch to char mode, where the terminal is active (up arrow, tab complete)
+
+FIND AND REPLACE
+
+M-% : query-replace
+
