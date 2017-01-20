@@ -21,6 +21,7 @@ C-x k <buffername> : kill a buffer; just entering return kills the current buffe
 CODING
 
 M-; : adds an inline comment; if a section is selected, then block comment/uncomment
+C-M-\ : indents all the lines in a block
 
 TERMINAL MODE
 
@@ -31,5 +32,4 @@ C-c C-k : switch to char mode, where the terminal is active (up arrow, tab compl
 
 FIND AND REPLACE
 
-M-% : query-replace
-
+M-% : query-replace 
