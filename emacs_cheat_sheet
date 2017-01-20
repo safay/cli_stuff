@@ -30,6 +30,7 @@ in terminal mode:
 C-c C-j : switch to line mode, to use emacs keybindings (edit text, switch buffers, etc.)
 C-c C-k : switch to char mode, where the terminal is active (up arrow, tab complete)
 
-FIND AND REPLACE
+SEARCH, FIND AND REPLACE
 
+C-s : incremental forward search
 M-% : query-replace 
