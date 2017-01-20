@@ -16,6 +16,7 @@ esc-> : end of doc
 BUFFERS
 
 C-x <left-arrow> / <right-arrow> : switch buffers
+C-x k <buffername> : kill a buffer; just entering return kills the current buffer
 
 CODING
 
