@@ -17,6 +17,11 @@ BUFFERS
 
 C-x <left-arrow> / <right-arrow> : switch buffers
 C-x k <buffername> : kill a buffer; just entering return kills the current buffer
+C-x b <buffername> : create a new buffer
+
+WINDOWS
+
+C-x 1 : Delete all windows in the selected frame except the selected window (delete-other-windows).
 
 CODING
 
