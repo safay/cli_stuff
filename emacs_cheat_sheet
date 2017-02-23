@@ -39,3 +39,7 @@ SEARCH, FIND AND REPLACE
 
 C-s : incremental forward search
 M-% : query-replace 
+
+APPEARANCE
+
+M-x linum-mode : add line numbers to margin
