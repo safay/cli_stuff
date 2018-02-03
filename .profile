@@ -8,3 +8,8 @@ export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
 ## Use a long listing format ##
 alias ll="ls -lahrt"
+
+export HISTFILESIZE=5000
+
+export VISUAL=emacs
+export EDITOR=$VISUAL
