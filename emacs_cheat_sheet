@@ -12,6 +12,7 @@ C-v : page down
 M-v : page up
 esc-< : beginning of doc
 esc-> : end of doc
+M-g M-g : jump to line #
 
 BUFFERS
 
