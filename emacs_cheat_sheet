@@ -27,7 +27,8 @@ C-x 1 : Delete all windows in the selected frame except the selected window (del
 CODING
 
 M-; : adds an inline comment; if a section is selected, then block comment/uncomment
-C-M-\ : indents all the lines in a block
+C-c >: indent right
+C-c <: de-indent (left)
 
 TERMINAL MODE
 
