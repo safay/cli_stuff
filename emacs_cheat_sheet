@@ -29,6 +29,7 @@ CODING
 M-; : adds an inline comment; if a section is selected, then block comment/uncomment
 C-c >: indent right
 C-c <: de-indent (left)
+C-x r k: kill a rectangle of text
 
 TERMINAL MODE
 
