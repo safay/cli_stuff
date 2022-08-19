@@ -1,0 +1,12 @@
+## install neovim
+brew install neovim
+
+## install a bunch of extra color schemes
+mkdir ~/.config/nvim/colors
+cd ~/.config/nvim && git clone git@github.com:rafi/awesome-vim-colorschemes.git && cp awesome-vim-colorschemes/colors/* colors && rm -rf awesome-vim-colorschemes
+
+## install my vim init file
+cd ~/projects && git clone git@github.com:safay/cli_stuff.git && cd cli_stuff && cp nvim/* ~/.config/nvim
+
+## install neogit
+
